@@ -1,0 +1,6 @@
+@BuildSmart.API_HostAddress = http://localhost:5087
+
+GET {{BuildSmart.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
